@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with over 2 yea
 - DevOps: CI/CD, Docker
 # :man_technologist: **Experience**
 I specialize in creating secure, high-performance applications using modern technologies. With expertise in both backend and frontend development, I enjoy crafting seamless user experiences and solving complex technical challenges.
-# :chart_with_upwards_trend:**GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrithik-gupta-910&show_icons=true&theme=radical)
+
 # 📫 **How to Reach Me**
 - LinkedIn ([www.linkedin.com/in/hrithik-gupta-032830-hg](https://www.linkedin.com/in/hrithik-gupta-032830-hg/))
 
