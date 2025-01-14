@@ -13,6 +13,9 @@ I specialize in creating secure, high-performance applications using modern tech
 # 📫 **How to Reach Me**
 - LinkedIn ([www.linkedin.com/in/hrithik-gupta-032830-hg](https://www.linkedin.com/in/hrithik-gupta-032830-hg/))
 
+
+Feel free to explore my repositories and connect with me!
+
 <!---
 hrithik-gupta-910/hrithik-gupta-910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
