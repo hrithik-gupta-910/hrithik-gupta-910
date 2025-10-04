@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with over 2 yea
 I specialize in creating secure, high-performance applications using modern technologies. With expertise in both backend and frontend development, I enjoy crafting seamless user experiences and solving complex technical challenges.
 
 # 📫 **How to Reach Me**
-- LinkedIn ([www.linkedin.com/in/hrithik-gupta-032830-hg](www.linkedin.com/in/hrithikgupta9))
+- LinkedIn ([www.linkedin.com/in/hrithikgupta9](www.linkedin.com/in/hrithikgupta9))
 
 
 Feel free to explore my repositories and connect with me!
